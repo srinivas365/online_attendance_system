@@ -1,12 +1,12 @@
 # online_attendance_system
 online attendance system for college using php and mysql
 
-![GitHub Logo](/images/a.png)
+![GitHub Logo](/img/a.png)
 
-![GitHub Logo](/images/b.png)
+![GitHub Logo](/img/b.png)
 
-![GitHub Logo](/images/c.png)
+![GitHub Logo](/img/c.png)
 
-![GitHub Logo](/images/d.png)
+![GitHub Logo](/img/d.png)
 
-![GitHub Logo](/images/e.png)
+![GitHub Logo](/img/e.png)
